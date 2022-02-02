@@ -84,7 +84,7 @@ input, select, textarea {
 
 	body {
 		background: #fff;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Quintessential', Quintessential;
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
@@ -103,7 +103,7 @@ input, select, textarea {
 		}
 
 	input, textarea, select {
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Quintessential', Quintessential;
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
@@ -2011,7 +2011,7 @@ input, select, textarea {
 			text-rendering: auto;
 			line-height: 1;
 			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
+			font-family: 'Quintessential', Quintessential;
 			font-weight: 400;
 		}
 
@@ -2028,7 +2028,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+			font-family: 'Quintessential', Quintessential;
 		}
 
 /* Header */
@@ -2502,7 +2502,7 @@ input, select, textarea {
 						text-rendering: auto;
 						line-height: 1;
 						text-transform: none !important;
-						font-family: 'Font Awesome 5 Free';
+						font-family: 'Quintessential', Quintessential;
 						font-weight: 900;
 					}
 
